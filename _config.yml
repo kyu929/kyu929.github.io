@@ -30,6 +30,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               "
+                       ![C++](https://img.shields.io/badge/-C++-ff69b4)
+                       ![Python](https://img.shields.io/badge/-Python-informational)
                        ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
                        "
                        
