@@ -29,8 +29,10 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
-
+tagline:               "
+                       ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+                       "
+                       
 # A list of keywords for your blog
 keywords:              []
 
